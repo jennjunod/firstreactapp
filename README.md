@@ -81,3 +81,7 @@ git add .
 git commit -m "first commit"
 git push
 ```
+
+- Helpful links: 
+- [Vite Scaffolding](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+- [Vercel CLI](https://vercel.com/docs/cli)
