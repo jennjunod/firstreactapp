@@ -2,8 +2,6 @@
 
 Use Vite to create React app then deploy via Vercel.
 
-## Create project in proper folder 
-
 ## Create React App
 
 Generate boilerplate application using the React Vite template.
@@ -58,3 +56,28 @@ Open [my-react-app-kohl.vercel.app](https://my-react-app-kohl.vercel.app).
 ## Create GitHub Repository
 
 Open link to [repo.new](https://repo.new)
+
+```bash
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/teachjenntech/my-react-app.git
+git push -u origin main
+```
+
+## Jenn Notes
+
+- `git add README.md` only uploads that file whereas `git add .` uploads all files
+
+- `git remote add origin https://github.com/teachjenntech/my-react-app.git` is based on each individual repo
+
+- Create GitHub Repository, use folder name as project name 
+
+- Make sure to commit changes to GitHub 
+
+```bash
+git add .
+git commit -m "first commit"
+git push
+```
